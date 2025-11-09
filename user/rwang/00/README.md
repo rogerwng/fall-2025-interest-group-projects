@@ -79,3 +79,9 @@ Larger model sizes clearly show slower prompt processing, generation speed, and 
 - gemma3:4b-it-qat (4GB)
 - gemma3:4b-it-q4_K_M (3.3GB)
 - gemma3:4b-it-q8_0 (5GB)
+
+### 3. File based configuration for sbatch script
+See *config.yaml* and *ollama.sbatch*  
+
+### 4. vLLM sbatch script
+See *vmm_serve.sbatch*
