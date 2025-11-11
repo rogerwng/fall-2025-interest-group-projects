@@ -4,7 +4,7 @@ This notebook demonstrates a pipeline for leveraging **pretrained deep learning 
 
 ---
 
-## 2. Setting up the Virtual Environment
+## Setting up the Virtual Environment
 
 To stay within your home directory quota, we'll create the virtual environment in the fast, temporary file system located at **`$TMPDIR`**.
 
